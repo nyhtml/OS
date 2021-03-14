@@ -17,7 +17,7 @@
 ★ RebornOS<br>
 ★ Remix OS<br>
 ★ Tails<br>
-★ Ubuntu<br>
+★ <a href="https://www.dualbootpc.com/software/system/ubuntu/#github">Ubuntu</a><br>
 ★ <a href="https://www.dualbootpc.com/software/system/windows/#github">Windows</a><br>
 ★ Void<br>
 ★ Zorin<br>
