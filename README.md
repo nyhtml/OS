@@ -1,4 +1,4 @@
-# <a title="Operating Systems" href="https://www.gixxerpc.com/software/system/#github">Operating Systems</a><br>
+# Operating Systems<br>
 ★ Arch<br>
 ★ Alpine<br>
 ★ Bliss OS<br>
